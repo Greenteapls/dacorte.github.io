@@ -1,5 +1,5 @@
 baseURL = 'https://pdacorte.github.io'
 languageCode = 'en-us'
 title = 'Paulo da Corte'
-publishDir = "./posts"
+publishDir = "."
 theme = "Paper"
